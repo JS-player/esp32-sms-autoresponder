@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 
 // Create software serial object to communicate with SIM900
-SoftwareSerial mySerial(19, 18); // D19 and D18 of ESP32 conneced to SIM900 Rx & Tx respectively
+SoftwareSerial mySerial(19, 18); // D19 and D18 of ESP32 conneced to SIM900A Rx & Tx respectively
 
 String senderNumber = ""; // Store the sender's phone number
 
