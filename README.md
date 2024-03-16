@@ -1,5 +1,5 @@
 # Esp32-sms-autorespond
-Receive and repply to SMS messages with ESP32 using SIM900A GSM/GPRS module
+Receive and reply to SMS messages with ESP32 using SIM900A GSM/GPRS module.
 
 ## Description
 This ESP32 project utilizes the SIM900A GSM/GPRS module to receive SMS messages, print them to the Serial Monitor, and automatically reply to the sender with a predefined message.
